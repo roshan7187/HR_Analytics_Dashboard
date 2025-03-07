@@ -71,7 +71,7 @@ This includes trendline and target line to help HR managers track progress towar
 
 ## DASHBOARD:
 
-![HR Dashboard ](file:///C:/Users/rosha/Downloads/Dashboard.png)
+![HR Dashboard ](https://github.com/roshan7187/HR_Analytics_Dashboard/blob/main/Dashboard.png)
 
 ### DASHBOARD OVERVIEW:
 
